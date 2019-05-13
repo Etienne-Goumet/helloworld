@@ -1,5 +1,5 @@
 {
-    "name": "asc/hello-world",
+    "name": "asc-radar/hello-world",
     "description": "say hello",
     "require": {
         "php": ">=7.1.0"
